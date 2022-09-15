@@ -17,7 +17,7 @@ Your friend Joe wants to start a news website and to differentiate from other si
 
 2. Align the elements in the navbar
     - Opening `index.html` with a web browser, the links `Home`, `Link`, `Link`, `Link` are aligned to the left of the screen on the same row.
-    - Opening `index.html` with a web browser, the input box and the `search``button are  are aligned to the right of the screen on the same row. ![NavBar alignment](images/navbar-alignment.JPG )
+    - Opening `index.html` with a web browser, the input box and the `search``button are  are aligned to the right of the screen on the same row. ![NavBar alignment](https://github.com/Roxana38/Css-flexing-your-muscles/blob/main/images/navbar-alignment.jpg )
 
 3. Align both articles containing headings 1 and 2 on the same row but on separate columns.
     - Opening `index.html` with a web browser, `Heading 1` and `Heading 2` is displayed similar to the image below ![Heading alignment](images/2-column-alignment.JPG)
