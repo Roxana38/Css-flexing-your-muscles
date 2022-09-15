@@ -20,7 +20,7 @@ Your friend Joe wants to start a news website and to differentiate from other si
     - Opening `index.html` with a web browser, the input box and the `search``button are  are aligned to the right of the screen on the same row. ![NavBar alignment](https://github.com/Roxana38/Css-flexing-your-muscles/blob/main/images/navbar-alignment.jpg )
 
 3. Align both articles containing headings 1 and 2 on the same row but on separate columns.
-    - Opening `index.html` with a web browser, `Heading 1` and `Heading 2` is displayed similar to the image below ![Heading alignment](images/2-column-alignment.JPG)
+    - Opening `index.html` with a web browser, `Heading 1` and `Heading 2` is displayed similar to the image below ![Heading alignment](https://github.com/Roxana38/Css-flexing-your-muscles/blob/main/images/2-column-alignment.jpg)
 
 4. Align the articles containing `Heading 3` and `Heading 4` on the same row and different columns. The `Heading 4` is centered vertically.
     - Opening `index.html` with a web browser, `Heading 3` and `Heading 4` is displayed similar to the image below ![Heading alignment centered vertical](images/2-column-alignment-with-center-vertical.JPG)
