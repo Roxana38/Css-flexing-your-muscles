@@ -72,8 +72,6 @@ main { margin: 1em; }
 
 section.articole{
   display: flex;
-  width: 48%;
-  flex-direction: column;
   flex-wrap:wrap;
 }
 section.hero {
@@ -94,9 +92,13 @@ section h1 {
 article {
   margin: 2em 1em 1em;
   border-bottom: 1px solid;
+  width: 45%;
 
 }
 article:last-child { border-bottom: 0; }
+
+
+
 
 img {
     width: 100%;
