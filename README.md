@@ -31,19 +31,8 @@ Your friend Joe wants to start a news website and to differentiate from other si
 6. The text inside the footer is centered horizontally.
     - Opening `index.html` with a web browser the text `©TheLatineer Forever` in the footer is  centered horizontally.
 
-## General requirements
-
-None
-
-## Hints
 
 
 
-## Background materials
 
-- <i class="far fa-exclamation"></i> [Flexbox documentation](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
-- <i class="far fa-exclamation"></i> [Flexbox tutorial](https://flexbox.io/)
-- <i class="far fa-video"></i> [How to use flexbox](https://www.youtube.com/watch?v=Vj7NZ6FiQvo&list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid) (you just need the Tutorial 2-9)
-- <i class="far fa-exclamation"></i> [Grid documentation](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
-- <i class="far fa-exclamation"></i> [Grid tutorial](https://cssgrid.io/)
-- <i class="far fa-video"></i> [CSS grid fundamentals](https://www.youtube.com/watch?v=T-slCsOrLcc&list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG) (you just need the Tutorial 3-11)
+
