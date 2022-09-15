@@ -73,6 +73,7 @@ main { margin: 1em; }
 section.articole{
   display: flex;
   flex-wrap:wrap;
+  justify-content: center;
 }
 section.hero {
   background: url("https://picsum.photos/960") center center;
@@ -93,13 +94,11 @@ article {
   margin: 2em 1em 1em;
   border-bottom: 1px solid;
   width: 45%;
-
 }
-article:last-child { border-bottom: 0; }
+article:last-child { 
+  border-bottom: 0;
 
-
-
-
+ }
 img {
     width: 100%;
     height: auto;
@@ -107,11 +106,13 @@ img {
 }
 
 .centered-horizontal {
-  max-width: 50%;
+  
+  align-items:center;
 }
 
 .centered-vertical {
-  width: 100%;
+  
+  align-self: center;
 }
 
 /* FOOTER */
@@ -119,5 +120,6 @@ footer {
   font-size: 14px;
   line-height: 3;
   background: #999;
+  text-align: center;
 }
 
