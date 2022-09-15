@@ -26,7 +26,7 @@ Your friend Joe wants to start a news website and to differentiate from other si
     - Opening `index.html` with a web browser, `Heading 3` and `Heading 4` is displayed similar to the image below ![Heading alignment centered vertical](images/2-column-alignment-with-center-vertical.JPG)
 
 5. Align the article containing `Heading 5` horizontally on a separate row compared to the other articles
-    - Opening `index.html` with a web browser, `Heading 5` is displayed in a separate column and is  centered horizontally similar to the image ![Heading alignment centered horizontal](images/2-column-alignment-with-center-horizontal.JPG)
+    - Opening `index.html` with a web browser, `Heading 5` is displayed in a separate column and is  centered horizontally similar to the image ![Heading alignment centered horizontal](https://github.com/Roxana38/Css-flexing-your-muscles/blob/main/images/2-column-alignment-with-center-horizontal.jpg )
 
 6. The text inside the footer is centered horizontally.
     - Opening `index.html` with a web browser the text `©TheLatineer Forever` in the footer is  centered horizontally.
